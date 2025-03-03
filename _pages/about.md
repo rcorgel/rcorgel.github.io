@@ -22,4 +22,4 @@ I'm currently a second-year PhD student in Georgetown University's [Global Infec
 
 In 2023, I graduated from the Johns Hopkins Bloomberg School of Public Health with a [Master of Science](https://publichealth.jhu.edu/academics/scm-dept-of-epidemiology) degree in Infectious Disease Epidemiology. There, I was advised by [Dr. Amy Wesolowski](https://publichealth.jhu.edu/faculty/3546/amy-p-wesolowski) and a member of the [Infectious Disease Dynamics](https://www.iddynamics.jhsph.edu/) group. 
 
-Upon completion of my doctorate, I hope to use my educational and professional background in epidemiology and data science to work in an applied public health setting. Please contact me via [LinkedIn](https://www.linkedin.com/in/rcorgel/) if you wish to connect or have any questions.
+Upon completion of my doctorate, I hope to use my educational and professional experience in epidemiology and data science to work in an applied public health setting. Please contact me via email or [LinkedIn](https://www.linkedin.com/in/rcorgel/) if you wish to connect or have any questions.
