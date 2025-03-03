@@ -15,7 +15,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 I'm currently a second-year PhD student in Georgetown University's [Global Infectious Disease](https://glid.georgetown.edu/doctor-of-philosophy/) program where I'm advised by [Dr. Shweta Bansal](https://gufaculty360.georgetown.edu/s/contact/00336000014RcOsAAK/shweta-bansal) and a member of the [Bansal Lab](https://www.bansallab.com/). My research interests broadly include the mathematical modeling of infectious disease dynamics, public health surveillance, and the impact of human behavior on disease transmission. 
