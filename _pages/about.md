@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Washington, District of Columbia</p>
-    <p></p>
+    <p>Washington, DC 20057</p>
+    <p> </p>
     <p></p>
 
 news: false # includes a list of news items
